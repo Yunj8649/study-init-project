@@ -8,7 +8,7 @@ const NavBar: FunctionComponent = () => {
 
     return (
         <nav>
-            <img src="/vercel.svg" />
+            <img src="/imgXingxingLogo@3x.png" />
             <div>
                 <Link href="/">
                     <a className={pathname === "/" ? "active" : ""}>HOME</a>
